@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    font-size: 50px;
+}
+img:hover{
+    background-color: goldenrod;
+}
+.chicken{
+    background-color: palegreen;
+}
+p{
+    
+    color: brown;
+}
+.size{
+    border-radius: 50%;
+}
